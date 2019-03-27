@@ -1,3 +1,4 @@
+# Program written by Jack Lansdale
 print("")
 print("It's a secret to everyone!")
 print("\033[1;37m     _______    \033[0 ")
